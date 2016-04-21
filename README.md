@@ -1,0 +1,1 @@
+# Django_factory_boy_sample
